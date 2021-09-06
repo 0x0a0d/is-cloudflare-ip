@@ -1,6 +1,6 @@
 {
   "name": "@cylution/is-cloudflare-ip",
-  "version": "1.0.0-1",
+  "version": "1.0.0",
   "description": "check if request IP come from Cloudflare",
   "main": "dist/index.js",
   "publishConfig": {

@@ -6,7 +6,7 @@ little module to validate ip come from Cloudflare
 ```typescript
 import { CloudflareIP } from '@cylution/is-cloudflare-ip'
 // js
-// const { CloudflareIP } = require('ip-cloudflare-ip')
+// const { CloudflareIP } = require('@cylution/ip-cloudflare-ip')
 
 /**
  * Cloudflare ip list
